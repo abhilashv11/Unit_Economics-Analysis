@@ -18,4 +18,5 @@ I architected a cross-functional pipeline joining **MySQL** transactions with li
 * **Executive Dashboarding:** Created a ”Bleeding Alert” dashboard in Power BI to prioritize loss-making categories for immediate management review.
 * **Scenario Modeling:** Authored a DAX-powered ”What-If” parameter to simulate price adjustments, demonstrating a pivot from loss to **$74K profit** in key categories.
 * **Business Impact:** Provided a data-backed roadmap projecting a total profit recovery of **$180K+** across Electronics and Furniture categories.
-![Project Dashboard](Dashboard View.png)
+
+![Project Dashboard](Dashboard View_Unit Economics Analysis.png)
