@@ -19,4 +19,3 @@ I architected a cross-functional pipeline joining **MySQL** transactions with li
 * **Scenario Modeling:** Authored a DAX-powered ”What-If” parameter to simulate price adjustments, demonstrating a pivot from loss to **$74K profit** in key categories.
 * **Business Impact:** Provided a data-backed roadmap projecting a total profit recovery of **$180K+** across Electronics and Furniture categories.
 
-![Project Dashboard](Dashboard View_Unit Economics Analysis.png)
